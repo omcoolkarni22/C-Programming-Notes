@@ -1,6 +1,6 @@
 # C-Programming-Notes
 This repo contains C Programming Notes 
-The contents are:
+The contents are: </br>
 __Array__ </br>
 __Structure__ </br>
 __Functions__</br>
